@@ -16,4 +16,6 @@ void main()
 	print_size("char", sizeof(char));
 	print_size("short int", sizeof(short));
 	print_size("long int", sizeof(long));
+	print_size("float", sizeof(float));
+	print_size("double", sizeof(double));
 }
